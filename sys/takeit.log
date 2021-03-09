@@ -1,0 +1,521 @@
+19-DEC-88 10:25:03  ** Session begins: TAKEIT version 47.
+19-DEC-88 10:25:03  * Username: OPER
+19-DEC-88 10:25:10  AUTO 
+19-DEC-88 10:26:48  14 minutes, Grace = 5
+19-DEC-88 10:26:48  * "System going down for emergency maint."
+19-DEC-88 10:26:48  * Warning: 14 minutes /LTS
+19-DEC-88 10:30:48  * Warning: 10 minutes /LTS
+19-DEC-88 10:35:48  * Warning: 5 minutes /LTS
+19-DEC-88 10:38:48  * Warning: 2 minutes /LTS
+19-DEC-88 10:39:48  * System shut (0 -> 400000)
+19-DEC-88 10:39:48  * Warning: 1 minute /LTS
+19-DEC-88 10:40:48  * System super shut (400000 -> 600000)
+19-DEC-88 10:40:48  * Warning: 0 minutes /LTS
+19-DEC-88 10:40:49  * Evicted job 4, user PERPOPER <XEXEC> RN
+19-DEC-88 10:40:49  * Evicted job 5, user SRA <SYSDAT> TS
+19-DEC-88 10:40:49  * Killed job 9, user SWRAY <NAD> ^C
+19-DEC-88 10:40:49  * Killed job 11, user JKATO <INIT> ^C
+19-DEC-88 10:40:49  * Killed job 12, user HUDSONG <LPR> ^C
+19-DEC-88 10:40:50  * Killed job 14, user FRANKWU <RPG> ^C
+19-DEC-88 10:40:50  * Killed job 15, user RMARSH <LISTER> ^C
+19-DEC-88 10:40:52  * Killed job 16, user DTAI <OPER> ^C
+19-DEC-88 10:40:52  * Killed job 17, user PEGGYH <NAD> ^C
+19-DEC-88 10:40:52  * Killed job 18, user OPER <ERRCHK> ^C
+19-DEC-88 10:40:54  * Killed job 21, user HANSEN <RPG> ^C
+19-DEC-88 10:40:54  * Killed job 22, user CHEN <OPER> ^C
+19-DEC-88 10:40:54  * Killed job 23, user NTS <RDMAIL> ^C
+19-DEC-88 10:40:57  * Killed job 24, user DBENDER <CSUM10> ^C
+19-DEC-88 10:40:57  * Killed job 25, user DGRAHAM <DIRIT> ^C
+19-DEC-88 10:40:57  * Killed job 27, user RICHTENG <INIT> ^C
+19-DEC-88 10:41:00  * Killed job 32, user GAMIS <OPER> ^C
+19-DEC-88 10:41:00  * Killed job 42, user WRFS <PIP> ^C
+19-DEC-88 10:41:00  * Killed job 61, user WRFS <LISTER> ^C
+19-DEC-88 10:41:43  * Killed job 3, user OPER <CHECK> ^C
+19-DEC-88 10:42:18  ?no response to evict by job 5, user SRA <SYSDAT> TI
+19-DEC-88 10:43:07  * Killed job 1, user  <LOGOUT> ^C
+19-DEC-88 10:45:18  * Killed job 6, user OPER <SPOOL> TI
+19-DEC-88 10:45:18  * Evicted job 10, user DCHANG <TUMS> TS
+19-DEC-88 10:45:18  * Killed job 20, user ACHIPPA <NAD> TI
+19-DEC-88 10:45:18  * Killed job 29, user ERICV <CSUM10> TI
+19-DEC-88 10:45:21  * Evicted job 2, user OPER <CHKPNT> TS
+19-DEC-88 10:45:24  * Hanging system...
+19-DEC-88 10:45:24  ** Session ends.
+
+12-DEC-88 23:40:45  ** Session begins: TAKEIT version 47.
+12-DEC-88 23:40:45  * Username: OPER
+12-DEC-88 23:40:45  400000 from 0
+12-DEC-88 23:40:47  AUTO 
+12-DEC-88 23:41:02  0 minutes, Grace = 0
+12-DEC-88 23:41:02  * "System going down as per schedule."
+12-DEC-88 23:41:02  * System super shut (400000 -> 600000)
+12-DEC-88 23:41:02  * Evicted job 4, user PERPOPER <XEXEC> RN
+12-DEC-88 23:41:02  * Evicted job 5, user SRA <SYSDAT> TS
+12-DEC-88 23:42:11  CLEAR 5
+12-DEC-88 23:42:31  ?no response to evict by job 5, user SRA <SYSDAT> TI
+12-DEC-88 23:42:33  * Evicted job 2, user OPER <CHKPNT> TS
+12-DEC-88 23:42:34  * Hanging system...
+12-DEC-88 23:42:34  ** Session ends.
+
+12-DEC-88 22:52:54  ** Session begins: TAKEIT version 47.
+12-DEC-88 22:52:54  * Username: OPER
+12-DEC-88 22:52:57  AUTO 
+12-DEC-88 22:53:11  6 minutes, Grace = 1
+12-DEC-88 22:53:11  * "System going down as per schedule."
+12-DEC-88 22:53:12  * Warning: 6 minutes /MS
+12-DEC-88 22:54:12  * Warning: 5 minutes /MS
+12-DEC-88 22:57:12  * Warning: 2 minutes /MS
+12-DEC-88 22:58:12  * System shut (0 -> 400000)
+12-DEC-88 22:58:12  * Warning: 1 minute /MS
+12-DEC-88 22:59:12  * System super shut (400000 -> 600000)
+12-DEC-88 22:59:13  * Warning: 0 minutes /MS
+12-DEC-88 22:59:14  * Evicted job 4, user PERPOPER <XEXEC> RN
+12-DEC-88 22:59:14  * Evicted job 5, user SRA <SYSDAT> TS
+12-DEC-88 22:59:14  * Killed job 6, user HUDSONG <NAD> ^C
+12-DEC-88 22:59:14  * Killed job 8, user NTS <PEAK> ^C
+12-DEC-88 22:59:14  * Killed job 9, user JKATO <SENDMA> ^C
+12-DEC-88 22:59:14  * Killed job 10, user SHSU <DIRIT> ^C
+12-DEC-88 22:59:15  * Killed job 11, user SYNCMAG <LISTER> ^C
+12-DEC-88 22:59:17  * Killed job 13, user RAFFO <PEAK> ^C
+12-DEC-88 22:59:17  * Killed job 16, user ENOVA <FILCOM> ^C
+12-DEC-88 22:59:17  * Killed job 17, user NTS <LISTER> ^C
+12-DEC-88 22:59:19  * Killed job 18, user SYNCMAG <LISTER> ^C
+12-DEC-88 22:59:19  * Killed job 19, user GAMIS <RPG> ^C
+12-DEC-88 22:59:19  * Killed job 21, user JSOUNG <DIRIT> ^C
+12-DEC-88 22:59:21  * Killed job 22, user LMAURER <DIRIT> ^C
+12-DEC-88 22:59:21  * Killed job 23, user SYNCMAG <GFD> ^C
+12-DEC-88 22:59:21  * Killed job 24, user ENOVA <PIP> ^C
+12-DEC-88 22:59:23  * Killed job 25, user JONAS <DIRIT> ^C
+12-DEC-88 22:59:23  * Evicted job 26, user KHANHQN <PCOM> RN
+12-DEC-88 22:59:23  * Killed job 29, user CHEN <WHO> ^C
+12-DEC-88 22:59:25  * Killed job 30, user LLIU <LISTER> ^C
+12-DEC-88 22:59:25  * Killed job 31, user DTAI <RDMAIL> ^C
+12-DEC-88 22:59:25  * Killed job 32, user BKRUEGER <CKSUM> ^C
+12-DEC-88 22:59:29  * Killed job 33, user DGRAHAM <LISTER> ^C
+12-DEC-88 22:59:29  * Killed job 34, user SANATKARH <NAD> ^C
+12-DEC-88 22:59:29  * Killed job 35, user MELE <1022F4> ^C
+12-DEC-88 22:59:29  * Killed job 37, user LDIAS <LS> ^C
+12-DEC-88 22:59:33  * Killed job 38, user HANSEN <SYSTAT> ^C
+12-DEC-88 22:59:33  * Killed job 39, user DGRAHAM <1022F4> ^C
+12-DEC-88 22:59:33  * Killed job 40, user DBENDER <CSUM10> ^C
+12-DEC-88 22:59:37  * Killed job 41, user BKRUEGER <PHONE> ^C
+12-DEC-88 22:59:37  * Killed job 42, user RAFFO <PEAK> ^C
+12-DEC-88 22:59:37  * Killed job 44, user DCHANG <RPG> ^C
+12-DEC-88 22:59:41  * Killed job 46, user JSTIER <1022F4> ^C
+12-DEC-88 22:59:41  * Killed job 48, user SLIANG <OPER> ^C
+12-DEC-88 22:59:41  * Killed job 49, user WRFS <BATCH> ^C
+12-DEC-88 22:59:46  * Killed job 51, user ASYNCTEST <OPER> ^C
+12-DEC-88 22:59:46  * Killed job 52, user ALANLO <LISTER> ^C
+12-DEC-88 22:59:46  * Killed job 53, user ACHIPPA <1022F4> ^C
+12-DEC-88 22:59:50  * Killed job 55, user MELE <LISTER> ^C
+12-DEC-88 22:59:50  * Killed job 60, user BBUNYAN <RPG> ^C
+12-DEC-88 22:59:50  * Killed job 64, user LDIAS <RPG> ^C
+12-DEC-88 22:59:50  * Killed job 65, user AKO <LISTER> ^C
+12-DEC-88 22:59:56  * Killed job 66, user RICHTENG <PEAK> ^C
+12-DEC-88 22:59:56  * Killed job 68, user BECHLYT <DIRIT> ^C
+12-DEC-88 23:00:13  * Killed job 27, user KHANHQN <OBJNIB> ^C
+12-DEC-88 23:00:13  * Killed job 3, user SWRAY <PEAK> TI
+12-DEC-88 23:00:14  * Killed job 7, user OPER <CHECK> SL
+12-DEC-88 23:00:14  * Killed job 56, user ACHIPPA <NAD> TI
+12-DEC-88 23:00:14  * Evicted job 57, user DCHANG <TUMS> TS
+12-DEC-88 23:00:42  ?no response to evict by job 5, user SRA <SYSDAT> TI
+12-DEC-88 23:00:43  * Evicted job 2, user OPER <CHKPNT> TS
+12-DEC-88 23:00:45  * Hanging system...
+12-DEC-88 23:00:45  ** Session ends.
+
+5-DEC-88 23:30:53  ** Session begins: TAKEIT version 47.
+5-DEC-88 23:30:53  * Username: OPER
+5-DEC-88 23:30:53  400000 from 0
+5-DEC-88 23:30:54  AUTO 
+5-DEC-88 23:31:18  0 minutes, Grace = 0
+5-DEC-88 23:31:18  * "System going down as per schedule."
+5-DEC-88 23:31:19  * System super shut (400000 -> 600000)
+5-DEC-88 23:31:19  * Evicted job 4, user PERPOPER <XEXEC> RN
+5-DEC-88 23:31:19  * Evicted job 5, user SRA <SYSDAT> TS
+5-DEC-88 23:32:11  CLEAR 5
+5-DEC-88 23:32:48  ?no response to evict by job 5, user SRA <SYSDAT> TI
+5-DEC-88 23:32:49  * Evicted job 2, user OPER <CHKPNT> TS
+5-DEC-88 23:32:50  * Hanging system...
+5-DEC-88 23:32:50  ** Session ends.
+
+5-DEC-88 23:03:10  ** Session begins: TAKEIT version 47.
+5-DEC-88 23:03:10  * Username: OPER
+5-DEC-88 23:03:16  AUTO 
+5-DEC-88 23:03:36  0 minutes, Grace = 0
+5-DEC-88 23:03:36  * "System going down as per schedule."
+5-DEC-88 23:03:36  * System super shut (0 -> 600000)
+5-DEC-88 23:03:36  * Evicted job 4, user PERPOPER <XEXEC> RN
+5-DEC-88 23:03:36  * Evicted job 6, user SRA <SYSDAT> TI
+5-DEC-88 23:03:36  * Killed job 8, user GAMIS <1022F4> ^C
+5-DEC-88 23:03:36  * Killed job 9, user SALTYRON <1022F4> ^C
+5-DEC-88 23:03:37  * Killed job 11, user HUDSONG <AUXIO> ^C
+5-DEC-88 23:03:38  * Killed job 12, user CHEN <INIT> ^C
+5-DEC-88 23:03:39  * Killed job 13, user MELE <LISTER> ^C
+5-DEC-88 23:03:39  * Killed job 14, user BKRUEGER <OPER> ^C
+5-DEC-88 23:03:40  * Killed job 15, user HUEYMA <DIRIT> ^C
+5-DEC-88 23:03:40  * Killed job 17, user JKATO <PEAK> ^C
+5-DEC-88 23:03:40  * Killed job 18, user DLAM <56> ^C
+5-DEC-88 23:03:42  * Killed job 19, user ENOVA <FILCOM> ^C
+5-DEC-88 23:03:42  * Killed job 20, user OSERANG <VUE> ^C
+5-DEC-88 23:03:42  * Killed job 22, user ENOVA <1022F4> ^C
+5-DEC-88 23:03:43  * Killed job 23, user SANATKARH <NAD> ^C
+5-DEC-88 23:03:45  * Killed job 24, user SANATKARH <1022F4> ^C
+5-DEC-88 23:03:45  * Killed job 25, user LMAURER <AUXIO> ^C
+5-DEC-88 23:03:45  * Killed job 26, user DTAI <LPR> ^C
+5-DEC-88 23:03:47  * Killed job 27, user BECHLYT <PASSWO> ^C
+5-DEC-88 23:03:47  * Killed job 30, user BKRUEGER <DIRIT> ^C
+5-DEC-88 23:03:47  * Killed job 32, user JSTIER <DIRIT> ^C
+5-DEC-88 23:03:50  * Killed job 33, user JKATO <AUXIO> ^C
+5-DEC-88 23:03:50  * Killed job 34, user ALIN <NAD> ^C
+5-DEC-88 23:03:50  * Killed job 35, user PEGGYH <NAD> ^C
+5-DEC-88 23:03:55  * Killed job 39, user SLIANG <LISTER> ^C
+5-DEC-88 23:03:55  * Killed job 40, user WRFS <OPER> ^C
+5-DEC-88 23:03:55  * Killed job 41, user ASYNCTEST <OPER> ^C
+5-DEC-88 23:04:00  * Killed job 42, user RICHTENG <DIRIT> ^C
+5-DEC-88 23:04:00  * Killed job 44, user RAFFO <DIRIT> ^C
+5-DEC-88 23:04:01  * Killed job 46, user LLIU <PIP> ^C
+5-DEC-88 23:04:02  * Killed job 3, user OPER <CHECK> SL
+5-DEC-88 23:04:02  * Killed job 7, user HANSEN <TELECO> TI
+5-DEC-88 23:04:02  * Killed job 43, user NTS <PEAK> TI
+5-DEC-88 23:05:05  ?no response to evict by job 6, user SRA <SYSDAT> TI
+5-DEC-88 23:05:32  ?no response to kill by job 25, user LMAURER <AUXIO> ^C
+5-DEC-88 23:05:34  * Evicted job 2, user OPER <CHKPNT> SW
+5-DEC-88 23:05:37  * Hanging system...
+5-DEC-88 23:05:37  ** Session ends.
+
+28-NOV-88 23:39:26  ** Session begins: TAKEIT version 47.
+28-NOV-88 23:39:26  * Username: OPER
+28-NOV-88 23:39:26  600000 from 0
+28-NOV-88 23:39:31  AUTO 
+28-NOV-88 23:39:47  0 minutes, Grace = 0
+28-NOV-88 23:39:47  * "System going down as per schedule."
+28-NOV-88 23:39:48  * Evicted job 5, user SRA <SYSDAT> TS
+28-NOV-88 23:41:17  ?no response to evict by job 5, user SRA <SYSDAT> TI
+28-NOV-88 23:41:18  * Evicted job 2, user OPER <CHKPNT> TS
+28-NOV-88 23:41:19  * Hanging system...
+28-NOV-88 23:41:19  ** Session ends.
+
+28-NOV-88 23:37:25  ** Session begins: TAKEIT version 47.
+28-NOV-88 23:37:25  * Opername: SILVAM, Username: OPER
+28-NOV-88 23:37:25  400000 from 0
+28-NOV-88 23:37:37  AUTO 
+28-NOV-88 23:37:55  0 minutes, Grace = 0
+28-NOV-88 23:37:55  * "System going down as per schedule."
+28-NOV-88 23:37:56  * System super shut (400000 -> 600000)
+28-NOV-88 23:37:56  * Evicted job 4, user PERPOPER <XEXEC> RN
+28-NOV-88 23:37:56  * Evicted job 5, user SRA <SYSDAT> TS
+28-NOV-88 23:38:44  CANCEL 
+28-NOV-88 23:38:49  QUIT 
+28-NOV-88 23:38:49  ** Session ends.
+
+28-NOV-88 22:49:13  ** Session begins: TAKEIT version 47.
+28-NOV-88 22:49:13  * Username: OPER
+28-NOV-88 22:49:14  AUTO 
+28-NOV-88 22:49:34  10 minutes, Grace = 1
+28-NOV-88 22:49:34  * "System going down as per schedule."
+28-NOV-88 22:49:34  * Warning: 10 minutes /MS
+28-NOV-88 22:54:35  * Warning: 5 minutes /MS
+28-NOV-88 22:57:35  * Warning: 2 minutes /MS
+28-NOV-88 22:58:34  * System shut (0 -> 400000)
+28-NOV-88 22:58:35  * Warning: 1 minute /MS
+28-NOV-88 22:59:35  * System super shut (400000 -> 600000)
+28-NOV-88 22:59:35  * Warning: 0 minutes /MS
+28-NOV-88 22:59:35  * Killed job 3, user ALIN <LISTER> ^C
+28-NOV-88 22:59:35  * Evicted job 4, user PERPOPER <XEXEC> RN
+28-NOV-88 22:59:35  * Evicted job 5, user SRA <SYSDAT> TS
+28-NOV-88 22:59:35  * Killed job 6, user JHULTMAN <1022F4> ^C
+28-NOV-88 22:59:35  * Killed job 7, user ACHIPPA <DIRIT> ^C
+28-NOV-88 22:59:37  * Killed job 8, user DLAM <1022F4> ^C
+28-NOV-88 22:59:37  * Killed job 9, user RROUSSELLE <AUXIO> ^C
+28-NOV-88 22:59:37  * Killed job 10, user HUDSONG <LPR> ^C
+28-NOV-88 22:59:40  * Killed job 11, user BKRUEGER <LPR> ^C
+28-NOV-88 22:59:40  * Killed job 12, user MELE <NAD> ^C
+28-NOV-88 22:59:40  * Killed job 13, user JSTIER <LPR> ^C
+28-NOV-88 22:59:42  * Killed job 16, user SANATKARH <VUE> ^C
+28-NOV-88 22:59:42  * Killed job 17, user DERNST <LISTER> ^C
+28-NOV-88 22:59:42  * Killed job 20, user HANSEN <1022F4> ^C
+28-NOV-88 22:59:44  * Killed job 22, user JSTIER <LPR> ^C
+28-NOV-88 22:59:44  * Killed job 23, user AKO <INIT> ^C
+28-NOV-88 22:59:44  * Killed job 24, user HANSEN <1022F4> ^C
+28-NOV-88 22:59:46  * Killed job 26, user SYNCMAG <LISTER> ^C
+28-NOV-88 22:59:46  * Killed job 30, user SLIANG <OPER> ^C
+28-NOV-88 22:59:46  * Killed job 31, user LMAURER <LISTER> ^C
+28-NOV-88 22:59:48  * Killed job 32, user GAMIS <DIRIT> ^C
+28-NOV-88 22:59:48  * Killed job 33, user WRFS <OPER> ^C
+28-NOV-88 22:59:48  * Killed job 34, user ASYNCTEST <OPER> ^C
+28-NOV-88 22:59:51  * Killed job 36, user JKATO <AUXIO> ^C
+28-NOV-88 22:59:51  * Killed job 37, user SANATKARH <1022F4> ^C
+28-NOV-88 22:59:55  * Killed job 40, user SWRAY <LISTER> ^C
+28-NOV-88 22:59:55  * Killed job 41, user JSOUNG <NTS> ^C
+28-NOV-88 22:59:55  * Killed job 43, user ENOVA <1022F4> ^C
+28-NOV-88 22:59:59  * Killed job 44, user JHULTMAN <1022F4> ^C
+28-NOV-88 22:59:59  * Killed job 45, user JONAS <1022F4> ^C
+28-NOV-88 22:59:59  * Killed job 48, user ENOVA <DIRIT> ^C
+28-NOV-88 23:00:04  * Killed job 50, user ALIN <DIRIT> ^C
+28-NOV-88 23:00:04  * Killed job 51, user DTAI <1022F4> ^C
+28-NOV-88 23:00:04  * Killed job 57, user JONAS <1022F4> ^C
+28-NOV-88 23:00:18  * Killed job 15, user OPER <CHECK> SL
+28-NOV-88 23:00:18  * Killed job 29, user BKRUEGER <NAD> TI
+28-NOV-88 23:01:03  ?no response to evict by job 5, user SRA <SYSDAT> TI
+28-NOV-88 23:01:05  * Evicted job 2, user OPER <CHKPNT> TS
+28-NOV-88 23:01:07  * Hanging system...
+28-NOV-88 23:01:07  ** Session ends.
+
+26-NOV-88 21:25:43  ** Session begins: TAKEIT version 47.
+26-NOV-88 21:25:43  * Opername: DICKINSON, Username: OPER
+26-NOV-88 21:25:50  AUTO 
+26-NOV-88 21:26:28  5 minutes, Grace = 1
+26-NOV-88 21:26:28  * "System going down for emergency maint."
+26-NOV-88 21:26:28  * Warning: 5 minutes /TD
+26-NOV-88 21:29:28  * Warning: 2 minutes /TD
+26-NOV-88 21:30:28  * System shut (0 -> 400000)
+26-NOV-88 21:30:28  * Warning: 1 minute /TD
+26-NOV-88 21:31:28  * System super shut (400000 -> 600000)
+26-NOV-88 21:31:28  * Warning: 0 minutes /TD
+26-NOV-88 21:31:29  * Evicted job 4, user PERPOPER <XEXEC> RN
+26-NOV-88 21:31:29  * Evicted job 5, user SRA <SYSDAT> TS
+26-NOV-88 21:31:29  * Killed job 9, user NTS <GFD> ^C
+26-NOV-88 21:31:29  * Killed job 13, user KRUMVIEDE <1022F4> ^C
+26-NOV-88 21:31:29  * Killed job 14, user PEGGYH <DIRIT> ^C
+26-NOV-88 21:31:59  * Killed job 7, user OPER <CHECK> SL
+26-NOV-88 21:32:57  ?no response to evict by job 5, user SRA <SYSDAT> TI
+26-NOV-88 21:32:59  * Evicted job 2, user OPER <CHKPNT> TS
+26-NOV-88 21:33:01  * Hanging system...
+26-NOV-88 21:33:01  ** Session ends.
+
+21-NOV-88 22:24:13  ** Session begins: TAKEIT version 47.
+21-NOV-88 22:24:13  * Username: OPER
+21-NOV-88 22:24:14  AUTO 
+21-NOV-88 22:24:39  35 minutes, Grace = 1
+21-NOV-88 22:24:39  * "System going down as per schedule."
+21-NOV-88 22:29:44  * Warning: 30 minutes /MS
+21-NOV-88 22:49:44  * Warning: 10 minutes /MS
+21-NOV-88 22:54:44  * Warning: 5 minutes /MS
+21-NOV-88 22:57:40  * Warning: 2 minutes /MS
+21-NOV-88 22:58:40  * System shut (0 -> 400000)
+21-NOV-88 22:58:40  * Warning: 1 minute /MS
+21-NOV-88 22:59:40  * System super shut (400000 -> 600000)
+21-NOV-88 22:59:40  * Warning: 0 minutes /MS
+21-NOV-88 22:59:40  * Killed job 3, user SANATKARH <NAD> ^C
+21-NOV-88 22:59:40  * Evicted job 4, user PERPOPER <XEXEC> RN
+21-NOV-88 22:59:41  * Evicted job 5, user SRA <SYSDAT> TS
+21-NOV-88 22:59:41  * Killed job 6, user JHULTMAN <DIRIT> ^C
+21-NOV-88 22:59:41  * Killed job 7, user ACHIPPA <FCAT> ^C
+21-NOV-88 22:59:43  * Killed job 10, user BKRUEGER <LISTER> ^C
+21-NOV-88 22:59:43  * Killed job 12, user RROUSSELLE <AUXIO> ^C
+21-NOV-88 22:59:43  * Killed job 13, user LLIU <1022F4> ^C
+21-NOV-88 22:59:45  * Killed job 14, user HUDSONG <DIRIT> ^C
+21-NOV-88 22:59:45  * Killed job 15, user ACHIPPA <WHO> ^C
+21-NOV-88 22:59:45  * Killed job 16, user ENOVA <1022F4> ^C
+21-NOV-88 22:59:47  * Killed job 17, user DBENDER <LISTER> ^C
+21-NOV-88 22:59:47  * Killed job 18, user JKATO <PEAK> ^C
+21-NOV-88 22:59:47  * Killed job 19, user ENOVA <PEAK> ^C
+21-NOV-88 22:59:49  * Killed job 20, user HUEYMA <PEAK> ^C
+21-NOV-88 22:59:49  * Killed job 23, user PINGCHU <LISTER> ^C
+21-NOV-88 22:59:49  * Killed job 32, user PEGGYH <NAD> ^C
+21-NOV-88 22:59:51  * Killed job 33, user RUDMAN <1022F4> ^C
+21-NOV-88 22:59:51  * Killed job 34, user SLIANG <LISTER> ^C
+21-NOV-88 22:59:53  * Killed job 36, user JKATO <PEAK> ^C
+21-NOV-88 22:59:53  * Killed job 38, user SWRAY <LPR> ^C
+21-NOV-88 22:59:53  * Killed job 39, user RMARSH <LISTER> ^C
+21-NOV-88 22:59:57  * Killed job 42, user JSTIER <1022F4> ^C
+21-NOV-88 22:59:57  * Killed job 43, user WRFS <OPER> ^C
+21-NOV-88 22:59:57  * Killed job 44, user ASYNCTEST <OPER> ^C
+21-NOV-88 22:59:59  * Killed job 49, user RICHTENG <PEAK> ^C
+21-NOV-88 22:59:59  * Killed job 51, user GAMIS <NAD> ^C
+21-NOV-88 22:59:59  * Killed job 52, user JHULTMAN <LISTER> ^C
+21-NOV-88 23:00:04  * Killed job 53, user ALIN <ND> ^C
+21-NOV-88 23:00:04  * Killed job 58, user NTS <PIP> ^C
+21-NOV-88 23:00:16  * Killed job 8, user OPER <CHECK> SL
+21-NOV-88 23:00:16  * Killed job 21, user HANSEN <SPOOL> TI
+21-NOV-88 23:00:16  * Killed job 24, user SALTYRON <EDITOR> TI
+21-NOV-88 23:00:16  * Killed job 25, user SANATKARH <VUE> TI
+21-NOV-88 23:00:16  * Killed job 30, user BKRUEGER <NAD> TI
+21-NOV-88 23:01:09  ?no response to evict by job 5, user SRA <SYSDAT> TI
+21-NOV-88 23:01:10  * Evicted job 2, user OPER <CHKPNT> TS
+21-NOV-88 23:01:12  * Hanging system...
+21-NOV-88 23:01:12  ** Session ends.
+
+16-NOV-88 23:50:35  ** Session begins: TAKEIT version 47.
+16-NOV-88 23:50:35  * Username: OPER
+16-NOV-88 23:50:39  AUTO 
+16-NOV-88 23:51:03  8 minutes, Grace = 1
+16-NOV-88 23:51:03  * "System going down as per schedule."
+16-NOV-88 23:51:03  * Warning: 8 minutes /BT
+16-NOV-88 238  * Warning: 5 minutes /BT
+16-NOV-88 23:57:04  * Warning: 2 minutes /BT
+16-NOV-88 23:58:04  * System shut (0 -> 400000)
+16-NOV-88 23:58:04  * Warning: 1 minute /BT
+16-NOV-88 23:59:04  * System super shut (400000 -> 600000)
+16-NOV-88 23:59:04  * Warning: 0 minutes /BT
+16-NOV-88 23:59:04  * Killed job 3, user JHULTMAN <LISTER> ^C
+16-NOV-88 23:59:04  * Evicted job 4, user PERPOPER <XEXEC> RN
+16-NOV-88 23:59:04  * Evicted job 5, user SRA <SYSDAT> TS
+16-NOV-88 23:59:04  * Killed job 8, user PINGCHU <PCOM> ^C
+16-NOV-88 23:59:04  * Killed job 12, user ENGR <1022F4> ^C
+16-NOV-88 23:59:05  * Killed job 15, user HUDSONG <RDMAIL> ^C
+16-NOV-88 23:59:05  * Killed job 19, user RAFFO <PEAK> ^C
+16-NOV-88 23:59:05  * Killed job 20, user ALIN <M> ^C
+16-NOV-88 23:59:05  * Killed job 21, user BONDAD <CSUM10> ^C
+16-NOV-88 23:59:05  * Killed job 22, user ENOVA <1022F4> ^C
+16-NOV-88 23:59:05  * Killed job 23, user SANATKARH <NAD> ^C
+16-NOV-88 23:59:05  * Killed job 25, user JSOUNG <PEAK> ^C
+16-NOV-88 23:59:06  * Killed job 26, user RROUSSELLE <WHO> ^C
+16-NOV-88 23:59:06  * Killed job 27, user HANSEN <STAR80> ^C
+16-NOV-88 23:59:07  * Killed job 28, user NTS <NAD> ^C
+16-NOV-88 23:59:11  * Killed job 29, user CHIFEI <PEAK> ^C
+16-NOV-88 23:59:11  * Killed job 30, user JILLN <SYSTAT> ^C
+16-NOV-88 23:59:12  * Killed job 33, user LLIU <DIRIT> ^C
+16-NOV-88 23:59:12  * Killed job 34, user GAMIS <NAD> ^C
+16-NOV-88 23:59:12  * Killed job 35, user DBENDER <RPG> ^C
+16-NOV-88 23:59:12  * Killed job 37, user DTAI <LPR> ^C
+16-NOV-88 23:59:13  * Killed job 38, user LMAURER <PEAK> ^C
+16-NOV-88 23:59:14  * Killed job 39, user NTS <1022F4> ^C
+16-NOV-88 23:59:14  * Killed job 40, user SWRAY <NAD> ^C
+16-NOV-88 23:59:16  * Killed job 41, user LLIU <SPOOL> ^C
+16-NOV-88 23:59:16  * Killed job 42, user NTS <NAD> ^C
+16-NOV-88 23:59:16  * Killed job 43, user ACHIPPA <1022F4> ^C
+16-NOV-88 23:59:21  * Killed job 44, user RICHTENG <PEAK> ^C
+16-NOV-88 23:59:21  * Killed job 45, user JONAS <NAD> ^C
+16-NOV-88 23:59:21  * Killed job 47, user DBENDER <RPG> ^C
+16-NOV-88 23:59:28  * Killed job 48, user ENOVA <LISTER> ^C
+16-NOV-88 23:59:28  * Killed job 50, user NTS <1022F4> ^C
+16-NOV-88 23:59:29  * Killed job 55, user JONAS <1022F4> ^C
+16-NOV-88 23:59:29  * Killed job 58, user BGOUZE <MAIL> ^C
+16-NOV-88 23:59:29  * Killed job 60, user HUEYMA <PEAK> ^C
+16-NOV-88 23:59:29  * Killed job 64, user ERICV <RDMAIL> ^C
+16-NOV-88 23:59:34  * Killed job 67, user BKRUEGER <LPR> ^C
+16-NOV-88 23:59:34  * Killed job 69, user DERNST <PIP> ^C
+16-NOV-88 23:59:35  * Killed job 75, user RICHTENG <GFD> ^C
+16-NOV-88 23:59:51  * Killed job 6, user JILLN <PEAK> TI
+16-NOV-88 23:59:52  * Killed job 7, user OPER <CHECK> SL
+16-NOV-88 23:59:52  * Killed job 18, user ACHIPPA <NAD> TI
+16-NOV-88 23:59:52  * Killed job 32, user ACHIPPA <NAD> TI
+16-NOV-88 23:59:52  * Killed job 54, user SANATKARH <VUE> TI
+16-NOV-88 23:59:53  * Killed job 57, user JILLN <EDITOR> TI
+16-NOV-88 23:59:53  * Killed job 63, user ACHIPPA <NAD> TI
+17-NOV-88 00:00:33  ?no response to evict by job 5, user SRA <SYSDAT> TI
+17-NOV-88 00:00:34  * Evicted job 2, user OPER <CHKPNT> TS
+17-NOV-88 00:00:37  * Hanging system...
+17-NOV-88 00:00:37  ** Session ends.
+
+14-NOV-88 22:42:03  ** Session begins: TAKEIT version 47.
+14-NOV-88 22:42:03  * Username: OPER
+14-NOV-88 22:42:04  AUTO 
+14-NOV-88 22:42:18  17 minutes, Grace = 1
+14-NOV-88 22:42:18  * "System going down as per schedule."
+14-NOV-88 22:42:18  * Warning: 17 minutes /MS
+14-NOV-88 22:46:18  * Warning: 10 minutes /MS
+14-NOV-88 22:48:48  * Warning: 5 minutes /MS
+14-NOV-88 22:51:20  * Warning: 2 minutes /MS
+14-NOV-88 22:52:20  * System shut (0 -> 400000)
+14-NOV-88 22:52:20  * Warning: 1 minute /MS
+14-NOV-88 22:53:20  * System super shut (400000 -> 600000)
+14-NOV-88 22:53:20  * Warning: 0 minutes /MS
+14-NOV-88 22:53:20  * Evicted job 4, user PERPOPER <XEXEC> RN
+14-NOV-88 22:53:20  * Evicted job 5, user SRA <SYSDAT> TS
+14-NOV-88 22:53:21  * Killed job 17, user BURRIESCIN <1022F4> ^C
+14-NOV-88 22:53:50  * Killed job 6, user OPER <PSPPDP> SL
+14-NOV-88 22:53:50  * Killed job 16, user DLAM <1022F4> TI
+14-NOV-88 22:54:49  ?no response to evict by job 5, user SRA <SYSDAT> TI
+14-NOV-88 22:54:50  * Evicted job 2, user OPER <CHKPNT> TS
+14-NOV-88 22:54:54  * Hanging system...
+14-NOV-88 22:54:54  ** Session ends.
+
+11-NOV-88 18:06:26  ** Session begins: TAKEIT version 47.
+11-NOV-88 18:06:26  * Username: BURRIESCIN
+11-NOV-88 18:06:41  KILL 11
+11-NOV-88 18:06:41  * Killed job 11, user PINGCHU <NAD> RN
+11-NOV-88 18:06:46  QUIT 
+11-NOV-88 18:06:46  ** Session ends.
+
+7-NOV-88 23:59:20  ** Session begins: TAKEIT version 47.
+7-NOV-88 23:59:20  * Username: OPER
+7-NOV-88 23:59:20  400000 from 0
+7-NOV-88 23:59:24  AUTO 
+7-NOV-88 23:59:39  0 minutes, Grace = 0
+7-NOV-88 23:59:39  * "System going down as per schedule."
+7-NOV-88 23:59:40  * System super shut (400000 -> 600000)
+7-NOV-88 23:59:40  * Killed job 4, user PERPOPER <INITIA> ML
+8-NOV-88 00:00:03  * Evicted job 2, user OPER <CHKPNT> TS
+8-NOV-88 00:00:07  * Hanging system...
+8-NOV-88 00:00:07  ** Session ends.
+
+7-NOV-88 23:08:42  ** Session begins: TAKEIT version 47.
+7-NOV-88 23:08:42  * Username: OPER
+7-NOV-88 23:08:42  600000 from 0
+7-NOV-88 23:08:44  AUTO 
+7-NOV-88 23:09:08  0 minutes, Grace = 0
+7-NOV-88 23:09:08  * "System going down as per schedule."
+7-NOV-88 23:09:08  * Evicted job 2, user OPER <CHKPNT> ML
+7-NOV-88 23:10:37  ?no response to evict by job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:10:37  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:10:58  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:11:19  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:11:40  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:12:01  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:12:22  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:12:43  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:13:04  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:13:25  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:13:46  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:14:07  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:14:28  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:14:47  KILL EXEMPT
+7-NOV-88 23:14:49  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:14:57  KILL UNEXEMPT
+7-NOV-88 23:15:10  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:15:24  CANCEL 
+7-NOV-88 23:15:26  QUIT 
+7-NOV-88 23:15:26  ** Session ends.
+
+7-NOV-88 22:35:13  ** Session begins: TAKEIT version 47.
+7-NOV-88 22:35:13  * Username: OPER
+7-NOV-88 22:35:16  AUTO 
+7-NOV-88 22:35:35  24 minutes, Grace = 1
+7-NOV-88 22:35:35  * "System going down as per schedule."
+7-NOV-88 22:35:35  * Warning: 24 minutes /MS
+7-NOV-88 22:49:39  * Warning: 10 minutes /MS
+7-NOV-88 22:54:39  * Warning: 5 minutes /MS
+7-NOV-88 22:57:35  * Warning: 2 minutes /MS
+7-NOV-88 22:58:35  * System shut (0 -> 400000)
+7-NOV-88 22:58:35  * Warning: 1 minute /MS
+7-NOV-88 22:59:35  * System super shut (400000 -> 600000)
+7-NOV-88 22:59:35  * Warning: 0 minutes /MS
+7-NOV-88 22:59:35  * Evicted job 4, user PERPOPER <XEXEC> RN
+7-NOV-88 22:59:35  * Evicted job 5, user SRA <SYSDAT> TI
+7-NOV-88 22:59:36  * Killed job 33, user DENCOFF <OPER> ^C
+7-NOV-88 23:01:04  ?no response to evict by job 5, user SRA <SYSDAT> TI
+7-NOV-88 23:01:05  * Evicted job 2, user OPER <CHKPNT> TS
+7-NOV-88 23:02:34  ?no response to evict by job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:02:34  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:02:55  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:03:16  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:03:37  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:03:58  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:04:19  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:04:40  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:05:01  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:05:22  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:05:43  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:06:04  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:06:25  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:06:46  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:07:07  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:07:20  CLEAR 2
+7-NOV-88 23:07:24  KILL 2
+7-NOV-88 23:07:28  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:07:32  KILL EXEMPT
+7-NOV-88 23:07:49  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:08:10  ?can't halt frame with JACCT: job 2, user OPER <CHKPNT> RN
+7-NOV-88 23:08:26  CANCEL 
+7-NOV-88 23:08:31  QUIT 
+7-NOV-88 23:08:31  ** Session ends.
+
+7-NOV-88 22:30:27  ** Session begins: TAKEIT version 47.
+7-NOV-88 22:30:27  * Username: OPER
+7-NOV-88 22:30:31  AUTO 
+7-NOV-88 22:30:48  29 minutes, Grace = 1
+7-NOV-88 22:30:48  * "System going down as per schedule."
+7-NOV-88 
+** file truncated **
+    bBjc
